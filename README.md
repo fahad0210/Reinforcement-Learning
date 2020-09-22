@@ -1,2 +1,1 @@
-Reinforcement Learning
-Algorithm implementation of Thompson Sampling and Upper Confidence Bound (UCB)
+Reinforcement Learning - Algorithm implementation of Thompson Sampling and Upper Confidence Bound (UCB)
